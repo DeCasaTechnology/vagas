@@ -17,6 +17,7 @@ Ao clicar na opção para visualizar a classificação, o usuário deverá ser l
 
 O layout é por sua conta, seja criativo.
 
+O código deve estar público no github.
 
 ### Avaliação
 
