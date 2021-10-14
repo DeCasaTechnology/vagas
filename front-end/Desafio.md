@@ -9,7 +9,7 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 
 A missão é desenvolver um sistema onde é mostrado todas as ligas futebolísticas e sua classificação. Para isso, utilize esta api pública https://github.com/azharimm/football-standings-api
 
-Qualquer funcionalidade extra é em vinda para agregar a solução básica.
+Qualquer funcionalidade extra é bem vinda para agregar a solução básica.
 
 O sistema deve apresentar em sua tela inicial todas as ligas, mas como são bastante, utilize a páginação para uma melhor experiência do usuário. Desejamos visualizar pelo menos a logo da liga, nome, sua abreviatura e uma opção para ver a classificação de times da liga.
 Ao clicar na opção para visualizar a classificação, o usário deverá ser levado para tela que contém a tabela de classificação da liga. Desejamos que os 4 primeiros e os 4 últimos tenham cores ou algum detalhe diferente.
