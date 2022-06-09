@@ -1,6 +1,6 @@
 # Vagas abertas
 
-## [São Luís] - Desenvolvedor Back-end C#
+## [São Luís] - Desenvolvedor Back-end Java [Presencial]
 
 ### Habilidades pessoais
 - Criatividade
@@ -27,7 +27,7 @@ Computação, Software ou Elétrica
 
 **Obrigatórios:**
 
-- Back-end em C#
+- Spring Boot
 - Sólidos conhecimentos em Orientação ao Objeto
 - Conhecimentos em SQL e bancos relacionais
 - Git
@@ -35,12 +35,11 @@ Computação, Software ou Elétrica
 **Desejáveis:**
 - Conhecimentos de DI e Deployment
 - Conhecimentos de TDD
-- Framework Spring Boot
 - Docker
 
 ### Atividades a serem desenvolvidas
 
-- Escrever apis em C#
+- Desenvolver apis em Spring Boot
 - Escrever testes automatizados
 - Postar o trabalho diariamente no Github
 - Prestar contas diariamente da entrega das tarefas
