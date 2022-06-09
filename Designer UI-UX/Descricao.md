@@ -49,6 +49,6 @@ experiência +
 
 ### Como se candidatar
 
-Enviar currículo para falacomigo@appdecasa.com.br. Dúvida falar no whatsapp
+Enviar currículo para falacomigo@appdecasa.com.br com assunto "Vaga Designer UI/UX". Dúvida falar no whatsapp
 98 98163 7799. Após o envio do currículo, entraremos em contato para
 agendarmos a entrevista e o teste prático
